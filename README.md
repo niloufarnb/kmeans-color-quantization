@@ -11,7 +11,6 @@ In this project, we implement a color quantization algorithm using **K-Means clu
 4. **Visualize Results** – Display side-by-side comparisons of original and quantized images.
 5. **Enhance Compression** – Observe how fewer colors lead to smaller image file sizes.
 
----
 
 ## 🎨 Examples
 
@@ -30,7 +29,7 @@ In this project, we implement a color quantization algorithm using **K-Means clu
   <img src="assets/k8.jpg" width="60%">
 </p>
 
----
+
 
 ## Features
 - **Random centroid initialization** using actual pixel samples.
@@ -41,7 +40,3 @@ In this project, we implement a color quantization algorithm using **K-Means clu
 - **Pixel re-coloring and image reshaping** into original dimensions.
 - **Compatible with any RGB image** using PIL or OpenCV.
 
----
-
-## 📜 License
-Licensed under the [MIT License](LICENSE).
