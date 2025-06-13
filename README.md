@@ -17,17 +17,17 @@ In this project, we implement a color quantization algorithm using **K-Means clu
 
 ### K = 2
 <p align="center">
-  <img src="assets/k4.jpg" width="60%">
+  <img src="assets/k2.jpg" width="60%">
 </p>
 
 ### K = 4
 <p align="center">
-  <img src="assets/k8.jpg" width="60%">
+  <img src="assets/k4.jpg" width="60%">
 </p>
 
 ### K = 8
 <p align="center">
-  <img src="assets/k16.jpg" width="60%">
+  <img src="assets/k8.jpg" width="60%">
 </p>
 
 ---
